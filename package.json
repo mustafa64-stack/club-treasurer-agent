@@ -1,0 +1,33 @@
+{
+  "name": "club-treasurer-agent",
+  "version": "1.0.0",
+  "description": "Autonomous Club Treasurer Agent with AI proposals and human approvals",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafa64-stack/club-treasurer-agent.git"
+  },
+  "keywords": [
+    "paypal",
+    "ai-agent",
+    "treasurer",
+    "claude",
+    "hackathon"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mustafa64-stack/club-treasurer-agent/issues"
+  },
+  "homepage": "https://github.com/mustafa64-stack/club-treasurer-agent#readme",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.36.0",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0"
+  }
+}

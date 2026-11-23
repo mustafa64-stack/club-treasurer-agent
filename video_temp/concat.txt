@@ -1,0 +1,7 @@
+file 'C:/paypal second/video_temp/slide_1.mp4'
+file 'C:/paypal second/video_temp/slide_2.mp4'
+file 'C:/paypal second/video_temp/slide_3.mp4'
+file 'C:/paypal second/video_temp/slide_4.mp4'
+file 'C:/paypal second/video_temp/slide_5.mp4'
+file 'C:/paypal second/video_temp/slide_6.mp4'
+file 'C:/paypal second/video_temp/slide_7.mp4'
